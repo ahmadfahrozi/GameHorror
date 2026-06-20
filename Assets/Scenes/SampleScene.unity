@@ -439,7 +439,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -2.3910952, y: -1.3892919}
+  m_Offset: {x: -2.3910952, y: -1.5058963}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -449,7 +449,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.11160946, y: 1.510351}
+  m_Size: {x: 0.11160946, y: 1.7435598}
   m_EdgeRadius: 0
 --- !u!61 &747627208
 BoxCollider2D:
@@ -669,7 +669,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 2.0931678, y: -2.9804878}
+  m_Offset: {x: 2.0931678, y: -3.0314188}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -679,7 +679,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 10.768115, y: 0.43878722}
+  m_Size: {x: 10.768115, y: 0.33692575}
   m_EdgeRadius: 0
 --- !u!61 &747627213
 BoxCollider2D:
@@ -2023,7 +2023,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 1
-  m_PointLightOuterRadius: 4
+  m_PointLightOuterRadius: 3
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
@@ -2135,11 +2135,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1786115608}
   - component: {fileID: 1786115607}
+  - component: {fileID: 1786115610}
   - component: {fileID: 1786115606}
   - component: {fileID: 1786115605}
   - component: {fileID: 1786115609}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 7422848464349959988, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -2206,8 +2207,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.99999994, y: 2}
+  m_Offset: {x: -0.010141199, y: -1.6381271}
+  m_Size: {x: 2.0112424, y: 2.6864598}
   m_Direction: 0
 --- !u!212 &1786115607
 SpriteRenderer:
@@ -2258,12 +2259,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 100
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
+  m_Sprite: {fileID: -4879328731441777132, guid: c6511e8181e3af340829499618620ec6, type: 3}
   m_Color: {r: 1, g: 0.8459119, b: 0.8459119, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 2.33, y: 3.82}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2277,8 +2278,8 @@ Transform:
   m_GameObject: {fileID: 1786115603}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1046, y: -0.9925, z: 0}
-  m_LocalScale: {x: 0.25935543, y: 0.15772058, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.09604234, y: 0.10442375, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1576235438}
@@ -2296,7 +2297,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d235a50ba6b3c394b9b841962e33068f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GerakPlayer
-  speed: 1.4
+  speed: 1.2
+--- !u!95 &1786115610
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1786115603}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 833ff165a8a3da343b95c880895d34bd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
