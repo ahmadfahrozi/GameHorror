@@ -2,13 +2,17 @@ using UnityEngine;
 
 public class GerakPlayer : MonoBehaviour
 {
-    public float speed = 5f;
-
+    
     private Rigidbody2D rb;
     private Animator anim;
 
     private Vector2 moveInput;
     private Vector2 lastDirection = Vector2.down;
+
+    public float moveSpeed = 5f;
+
+    [HideInInspector]
+    public float speedMultiplier = 1f;
 
     void Start()
     {
@@ -37,10 +41,20 @@ public class GerakPlayer : MonoBehaviour
             anim.SetFloat("Vertical", Mathf.Sign(lastDirection.y));
             anim.SetFloat("Speed", 0);
         }
+
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            GetComponent<PlayerHealth>().TakeDamage(10);
+        }
+
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            GetComponent<PlayerHealth>().Heal(10);
+        }
     }
 
     void FixedUpdate()
     {
-        rb.linearVelocity = moveInput * speed;
+        rb.linearVelocity = moveInput * moveSpeed * speedMultiplier;
     }
 }
