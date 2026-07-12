@@ -1,0 +1,1386 @@
+fileFormatVersion: 2
+guid: 7df60d8a5ada8ff48ac6a94a48d821b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2709688861311063286
+    second: vsl_0
+  - first:
+      213: 5873233066987675921
+    second: vsl_1
+  - first:
+      213: -1392712416192638025
+    second: vsl_2
+  - first:
+      213: -791534194646977928
+    second: vsl_3
+  - first:
+      213: 6618677270688968191
+    second: vsl_4
+  - first:
+      213: 7028103259888417925
+    second: vsl_5
+  - first:
+      213: -1142229944534275903
+    second: vsl_6
+  - first:
+      213: -1659824559732145527
+    second: vsl_7
+  - first:
+      213: -2432091481328643558
+    second: vsl_8
+  - first:
+      213: 5111579203765365176
+    second: vsl_9
+  - first:
+      213: -2405848202126154415
+    second: vsl_10
+  - first:
+      213: -8025556917389735098
+    second: vsl_11
+  - first:
+      213: -5223201088605337191
+    second: vsl_12
+  - first:
+      213: -1498714471301844364
+    second: vsl_13
+  - first:
+      213: -626965842974791422
+    second: vsl_14
+  - first:
+      213: -1235835044550109274
+    second: vsl_15
+  - first:
+      213: -6480439607621805668
+    second: vsl_16
+  - first:
+      213: 2832632273766863149
+    second: vsl_17
+  - first:
+      213: 7446594580747047537
+    second: vsl_18
+  - first:
+      213: -2059746634085748278
+    second: vsl_19
+  - first:
+      213: 9156002177599217582
+    second: vsl_20
+  - first:
+      213: 5761447249780703004
+    second: vsl_21
+  - first:
+      213: 6818618151967219770
+    second: vsl_22
+  - first:
+      213: 6948288284186429094
+    second: vsl_23
+  - first:
+      213: 6947243121718141103
+    second: vsl_24
+  - first:
+      213: 5769857273232228948
+    second: vsl_25
+  - first:
+      213: -6410600227405658724
+    second: vsl_26
+  - first:
+      213: -1585403090351934008
+    second: vsl_27
+  - first:
+      213: -5086814588162960800
+    second: vsl_28
+  - first:
+      213: -3592151715273026778
+    second: vsl_29
+  - first:
+      213: 8081478236966638953
+    second: vsl_30
+  - first:
+      213: 5043937987784270945
+    second: vsl_31
+  - first:
+      213: 4822869231964791260
+    second: vsl_32
+  - first:
+      213: 7611576532797830493
+    second: vsl_33
+  - first:
+      213: -8020624726574817354
+    second: vsl_34
+  - first:
+      213: 8620513993204229569
+    second: vsl_35
+  - first:
+      213: -5880226665750334454
+    second: vsl_36
+  - first:
+      213: -1604663918449772723
+    second: vsl_37
+  - first:
+      213: 3660896383147744018
+    second: vsl_38
+  - first:
+      213: -2813228184579214415
+    second: vsl_39
+  - first:
+      213: -2688028812176955585
+    second: vsl_40
+  - first:
+      213: 7048836645308110620
+    second: vsl_41
+  - first:
+      213: -2404603663748367858
+    second: vsl_42
+  - first:
+      213: 8305016354057758744
+    second: vsl_43
+  - first:
+      213: 218680052714192095
+    second: vsl_44
+  - first:
+      213: -2165972669400883079
+    second: vsl_45
+  - first:
+      213: 2395563255575578656
+    second: vsl_46
+  - first:
+      213: 5574894293507749097
+    second: vsl_47
+  - first:
+      213: -3191358502711083951
+    second: vsl_48
+  - first:
+      213: -1049559467250256005
+    second: vsl_49
+  - first:
+      213: -7654511461143135228
+    second: vsl_50
+  - first:
+      213: 5193061772242233677
+    second: vsl_51
+  - first:
+      213: -7782990468389744446
+    second: vsl_52
+  - first:
+      213: -3081169508399986050
+    second: vsl_53
+  - first:
+      213: 897200252453880485
+    second: vsl_54
+  - first:
+      213: -6413798461556727352
+    second: vsl_55
+  - first:
+      213: 3262565406925251845
+    second: vsl_56
+  - first:
+      213: 6120651855179737396
+    second: vsl_57
+  - first:
+      213: -4995480870299927766
+    second: vsl_58
+  - first:
+      213: -8583592325018330189
+    second: vsl_59
+  - first:
+      213: -8315717299974344029
+    second: vsl_60
+  - first:
+      213: -1620508084908763651
+    second: vsl_61
+  - first:
+      213: 7296129695251780213
+    second: vsl_62
+  - first:
+      213: 5577421788018335445
+    second: vsl_63
+  - first:
+      213: 1306803144056170524
+    second: vsl_64
+  - first:
+      213: -6920414781627218337
+    second: vsl_65
+  - first:
+      213: 2898255898208215404
+    second: vsl_66
+  - first:
+      213: 4370726363463773027
+    second: vsl_67
+  - first:
+      213: -1091161723324774228
+    second: vsl_68
+  - first:
+      213: -3028154784037719556
+    second: vsl_69
+  - first:
+      213: -8583403637553497648
+    second: vsl_70
+  - first:
+      213: 7426535650213470494
+    second: vsl_71
+  - first:
+      213: 7687480284902076204
+    second: vsl_72
+  - first:
+      213: -8266215022240726941
+    second: vsl_73
+  - first:
+      213: 8084086418526185774
+    second: vsl_74
+  - first:
+      213: 6517142747179619073
+    second: vsl_75
+  - first:
+      213: -320469980159227660
+    second: vsl_76
+  - first:
+      213: 6338681040171562478
+    second: vsl_77
+  - first:
+      213: 8826509547398798285
+    second: vsl_78
+  - first:
+      213: -4417106052442988011
+    second: vsl_79
+  - first:
+      213: 5555731604354854335
+    second: vsl_80
+  - first:
+      213: -6092167571829058080
+    second: vsl_81
+  - first:
+      213: -3375076089274281551
+    second: vsl_82
+  - first:
+      213: 5309484044267010982
+    second: vsl_83
+  - first:
+      213: -2459984413442695919
+    second: vsl_84
+  - first:
+      213: -741283968990470593
+    second: vsl_85
+  - first:
+      213: -1024118902289369312
+    second: vsl_86
+  - first:
+      213: 1723807416536801236
+    second: vsl_87
+  - first:
+      213: 710781190931215322
+    second: vsl_88
+  - first:
+      213: -4253558325816662923
+    second: vsl_89
+  - first:
+      213: -2207373748613804923
+    second: vsl_90
+  - first:
+      213: 8769338443860798478
+    second: vsl_91
+  - first:
+      213: -6058905069004389910
+    second: vsl_92
+  - first:
+      213: -2844896569489646877
+    second: vsl_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vsl_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2724
+        width: 570
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4574ea9afba9520800000000000000
+      internalID: 2709688861311063286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2724
+        width: 666
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111e0e05b5ae18150800000000000000
+      internalID: 5873233066987675921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_2
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1855
+        width: 643
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3df86bf671cace0800000000000000
+      internalID: -1392712416192638025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_3
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2734
+        width: 579
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872fd7cf7d7e305f0800000000000000
+      internalID: -791534194646977928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_4
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 2722
+        width: 408
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd2e5219e34adb50800000000000000
+      internalID: 6618677270688968191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_5
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2722
+        width: 435
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf96aada6d88160800000000000000
+      internalID: 7028103259888417925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_6
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 2734
+        width: 549
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c86830daebf520f0800000000000000
+      internalID: -1142229944534275903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_7
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 2724
+        width: 610
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98242b76b5e17f8e0800000000000000
+      internalID: -1659824559732145527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_8
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 2724
+        width: 621
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12172afea97f3ed0800000000000000
+      internalID: -2432091481328643558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_9
+      rect:
+        serializedVersion: 2
+        x: 5413
+        y: 2724
+        width: 539
+        height: 591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b965b9143affe640800000000000000
+      internalID: 5111579203765365176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_10
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1854
+        width: 470
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15522c09ec5bc9ed0800000000000000
+      internalID: -2405848202126154415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_11
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2724
+        width: 645
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4e4e318e7f9090800000000000000
+      internalID: -8025556917389735098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_12
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 1852
+        width: 647
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ce3b98467387b0800000000000000
+      internalID: -5223201088605337191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_28
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1854
+        width: 501
+        height: 630
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062954a45110869b0800000000000000
+      internalID: -5086814588162960800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1852
+        width: 553
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164eafe30eaaff540800000000000000
+      internalID: 5043937987784270945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1852
+        width: 596
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd12c6983064ee240800000000000000
+      internalID: 4822869231964791260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_34
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1856
+        width: 567
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1bc76e4401b090800000000000000
+      internalID: -8020624726574817354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_35
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1856
+        width: 509
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5e83aadc732a770800000000000000
+      internalID: 8620513993204229569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_36
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 1927
+        width: 556
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04fb25900d356ea0800000000000000
+      internalID: -5880226665750334454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_49
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1071
+        width: 536
+        height: 769
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7776efa9373f61f0800000000000000
+      internalID: -1049559467250256005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_51
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 1052
+        width: 478
+        height: 822
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49a827fa26711840800000000000000
+      internalID: 5193061772242233677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_52
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 1052
+        width: 556
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d061b7634df390800000000000000
+      internalID: -7782990468389744446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_54
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 1052
+        width: 536
+        height: 845
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a287e340ee737c00800000000000000
+      internalID: 897200252453880485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 459
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e148a3f5f64d20800000000000000
+      internalID: 3262565406925251845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_57
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1073
+        width: 527
+        height: 717
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e2d50f6ce0f450800000000000000
+      internalID: 6120651855179737396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_58
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1045
+        width: 532
+        height: 783
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b738b9d9c7caab0800000000000000
+      internalID: -4995480870299927766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_60
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 993
+        width: 549
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2757a9c23a89c80800000000000000
+      internalID: -8315717299974344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_61
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 1052
+        width: 456
+        height: 769
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df55d5b8b7cc289e0800000000000000
+      internalID: -1620508084908763651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_62
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 1063
+        width: 497
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57259a02d4f014560800000000000000
+      internalID: 7296129695251780213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_70
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 13
+        width: 548
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9f3d35edf91e880800000000000000
+      internalID: -8583403637553497648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_76
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 116
+        width: 510
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ce6f30467d8bf0800000000000000
+      internalID: -320469980159227660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_77
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 92
+        width: 555
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5fdef72d487f750800000000000000
+      internalID: 6338681040171562478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_78
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 12
+        width: 563
+        height: 851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb9c432baf0e7a70800000000000000
+      internalID: 8826509547398798285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_80
+      rect:
+        serializedVersion: 2
+        x: 5457
+        y: 11
+        width: 543
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd6bf8657ce91d40800000000000000
+      internalID: 5555731604354854335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 116
+        width: 548
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d10c3a5316cddd0800000000000000
+      internalID: -2459984413442695919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_86
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 120
+        width: 561
+        height: 830
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027774dc84999c1f0800000000000000
+      internalID: -1024118902289369312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_87
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 25
+        width: 628
+        height: 875
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1cd356b13ce710800000000000000
+      internalID: 1723807416536801236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_89
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 11
+        width: 518
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ea4e2d3358f4c0800000000000000
+      internalID: -4253558325816662923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_90
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 25
+        width: 478
+        height: 837
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c0a535545dd51e0800000000000000
+      internalID: -2207373748613804923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vsl_13
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 1866
+        width: 588
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b3987d1ece4a4c8e5353041f05f1d
+      internalID: -1498714471301844364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ecef2e25fe4f71b488d28652c616dc59
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vsl_0: 2709688861311063286
+      vsl_1: 5873233066987675921
+      vsl_10: -2405848202126154415
+      vsl_11: -8025556917389735098
+      vsl_12: -5223201088605337191
+      vsl_13: -1498714471301844364
+      vsl_14: -626965842974791422
+      vsl_15: -1235835044550109274
+      vsl_16: -6480439607621805668
+      vsl_17: 2832632273766863149
+      vsl_18: 7446594580747047537
+      vsl_19: -2059746634085748278
+      vsl_2: -1392712416192638025
+      vsl_20: 9156002177599217582
+      vsl_21: 5761447249780703004
+      vsl_22: 6818618151967219770
+      vsl_23: 6948288284186429094
+      vsl_24: 6947243121718141103
+      vsl_25: 5769857273232228948
+      vsl_26: -6410600227405658724
+      vsl_27: -1585403090351934008
+      vsl_28: -5086814588162960800
+      vsl_29: -3592151715273026778
+      vsl_3: -791534194646977928
+      vsl_30: 8081478236966638953
+      vsl_31: 5043937987784270945
+      vsl_32: 4822869231964791260
+      vsl_33: 7611576532797830493
+      vsl_34: -8020624726574817354
+      vsl_35: 8620513993204229569
+      vsl_36: -5880226665750334454
+      vsl_37: -1604663918449772723
+      vsl_38: 3660896383147744018
+      vsl_39: -2813228184579214415
+      vsl_4: 6618677270688968191
+      vsl_40: -2688028812176955585
+      vsl_41: 7048836645308110620
+      vsl_42: -2404603663748367858
+      vsl_43: 8305016354057758744
+      vsl_44: 218680052714192095
+      vsl_45: -2165972669400883079
+      vsl_46: 2395563255575578656
+      vsl_47: 5574894293507749097
+      vsl_48: -3191358502711083951
+      vsl_49: -1049559467250256005
+      vsl_5: 7028103259888417925
+      vsl_50: -7654511461143135228
+      vsl_51: 5193061772242233677
+      vsl_52: -7782990468389744446
+      vsl_53: -3081169508399986050
+      vsl_54: 897200252453880485
+      vsl_55: -6413798461556727352
+      vsl_56: 3262565406925251845
+      vsl_57: 6120651855179737396
+      vsl_58: -4995480870299927766
+      vsl_59: -8583592325018330189
+      vsl_6: -1142229944534275903
+      vsl_60: -8315717299974344029
+      vsl_61: -1620508084908763651
+      vsl_62: 7296129695251780213
+      vsl_63: 5577421788018335445
+      vsl_64: 1306803144056170524
+      vsl_65: -6920414781627218337
+      vsl_66: 2898255898208215404
+      vsl_67: 4370726363463773027
+      vsl_68: -1091161723324774228
+      vsl_69: -3028154784037719556
+      vsl_7: -1659824559732145527
+      vsl_70: -8583403637553497648
+      vsl_71: 7426535650213470494
+      vsl_72: 7687480284902076204
+      vsl_73: -8266215022240726941
+      vsl_74: 8084086418526185774
+      vsl_75: 6517142747179619073
+      vsl_76: -320469980159227660
+      vsl_77: 6338681040171562478
+      vsl_78: 8826509547398798285
+      vsl_79: -4417106052442988011
+      vsl_8: -2432091481328643558
+      vsl_80: 5555731604354854335
+      vsl_81: -6092167571829058080
+      vsl_82: -3375076089274281551
+      vsl_83: 5309484044267010982
+      vsl_84: -2459984413442695919
+      vsl_85: -741283968990470593
+      vsl_86: -1024118902289369312
+      vsl_87: 1723807416536801236
+      vsl_88: 710781190931215322
+      vsl_89: -4253558325816662923
+      vsl_9: 5111579203765365176
+      vsl_90: -2207373748613804923
+      vsl_91: 8769338443860798478
+      vsl_92: -6058905069004389910
+      vsl_93: -2844896569489646877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

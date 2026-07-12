@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 77cc56da765fbff44b7dbb1bcaab54ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 33206307468102519
+    second: lanjut lt2_0
+  - first:
+      213: 7761831000884663245
+    second: lanjut lt2_1
+  - first:
+      213: 7236201901515823102
+    second: lanjut lt2_2
+  - first:
+      213: 8668221112344089557
+    second: lanjut lt2_3
+  - first:
+      213: 3548099740996390244
+    second: lanjut lt2_4
+  - first:
+      213: 663861900091269729
+    second: lanjut lt2_5
+  - first:
+      213: -1929134431730927184
+    second: lanjut lt2_6
+  - first:
+      213: 837063462831394114
+    second: lanjut lt2_7
+  - first:
+      213: 6849302058870383364
+    second: lanjut lt2_8
+  - first:
+      213: 2679345734673099616
+    second: lanjut lt2_9
+  - first:
+      213: 257962477773968845
+    second: lanjut lt2_10
+  - first:
+      213: 3867149706670290441
+    second: lanjut lt2_11
+  - first:
+      213: -11437848470523317
+    second: lanjut lt2_12
+  - first:
+      213: 1494735162030797150
+    second: lanjut lt2_13
+  - first:
+      213: 5318276821788257550
+    second: lanjut lt2_14
+  - first:
+      213: -1785818793715201806
+    second: lanjut lt2_15
+  - first:
+      213: -17967717087635422
+    second: lanjut lt2_16
+  - first:
+      213: -4589822484744632845
+    second: lanjut lt2_17
+  - first:
+      213: -8375674190656262178
+    second: lanjut lt2_18
+  - first:
+      213: 5432099595002635867
+    second: lanjut lt2_19
+  - first:
+      213: 2101977521140177542
+    second: lanjut lt2_20
+  - first:
+      213: 579405859931609722
+    second: lanjut lt2_21
+  - first:
+      213: 6331692167595261342
+    second: lanjut lt2_22
+  - first:
+      213: -2984714276230139683
+    second: lanjut lt2_23
+  - first:
+      213: 6882457548073739033
+    second: lanjut lt2_24
+  - first:
+      213: -4036912286000262820
+    second: lanjut lt2_25
+  - first:
+      213: 8657069879045931407
+    second: lanjut lt2_26
+  - first:
+      213: 6444243726862823114
+    second: lanjut lt2_27
+  - first:
+      213: -1381904314300831407
+    second: lanjut lt2_28
+  - first:
+      213: 4392760099059277314
+    second: lanjut lt2_29
+  - first:
+      213: -8143907398603453613
+    second: lanjut lt2_30
+  - first:
+      213: 6344394366094791284
+    second: lanjut lt2_31
+  - first:
+      213: -8321046581296438818
+    second: lanjut lt2_32
+  - first:
+      213: -6892809173357651927
+    second: lanjut lt2_33
+  - first:
+      213: -743266834080626903
+    second: lanjut lt2_34
+  - first:
+      213: -7739013026900719014
+    second: lanjut lt2_35
+  - first:
+      213: 8873704926537295985
+    second: lanjut lt2_36
+  - first:
+      213: 2291728482088995187
+    second: lanjut lt2_37
+  - first:
+      213: -3976024700859718875
+    second: lanjut lt2_38
+  - first:
+      213: -2243618532551902870
+    second: lanjut lt2_39
+  - first:
+      213: 1426113062836972560
+    second: lanjut lt2_40
+  - first:
+      213: 8128476958889886050
+    second: lanjut lt2_41
+  - first:
+      213: 5382434570533520369
+    second: lanjut lt2_42
+  - first:
+      213: 7146027342593823974
+    second: lanjut lt2_43
+  - first:
+      213: -1557818321297410240
+    second: lanjut lt2_44
+  - first:
+      213: -1846894238765626818
+    second: lanjut lt2_45
+  - first:
+      213: -3793335857206337164
+    second: lanjut lt2_46
+  - first:
+      213: 2951270703586401032
+    second: lanjut lt2_47
+  - first:
+      213: 8031425451348917298
+    second: lanjut lt2_48
+  - first:
+      213: -5253025461135892768
+    second: lanjut lt2_49
+  - first:
+      213: -4237523971008456880
+    second: lanjut lt2_50
+  - first:
+      213: -5192625168185435133
+    second: lanjut lt2_51
+  - first:
+      213: 3317312588520325892
+    second: lanjut lt2_52
+  - first:
+      213: 840643798144973993
+    second: lanjut lt2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lanjut lt2_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 321
+        width: 1548
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b40f0f5f8f57000800000000000000
+      internalID: 33206307468102519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 523d0031402bd0a459b14d9f23f529df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lanjut lt2_0: 33206307468102519
+      lanjut lt2_1: 7761831000884663245
+      lanjut lt2_10: 257962477773968845
+      lanjut lt2_11: 3867149706670290441
+      lanjut lt2_12: -11437848470523317
+      lanjut lt2_13: 1494735162030797150
+      lanjut lt2_14: 5318276821788257550
+      lanjut lt2_15: -1785818793715201806
+      lanjut lt2_16: -17967717087635422
+      lanjut lt2_17: -4589822484744632845
+      lanjut lt2_18: -8375674190656262178
+      lanjut lt2_19: 5432099595002635867
+      lanjut lt2_2: 7236201901515823102
+      lanjut lt2_20: 2101977521140177542
+      lanjut lt2_21: 579405859931609722
+      lanjut lt2_22: 6331692167595261342
+      lanjut lt2_23: -2984714276230139683
+      lanjut lt2_24: 6882457548073739033
+      lanjut lt2_25: -4036912286000262820
+      lanjut lt2_26: 8657069879045931407
+      lanjut lt2_27: 6444243726862823114
+      lanjut lt2_28: -1381904314300831407
+      lanjut lt2_29: 4392760099059277314
+      lanjut lt2_3: 8668221112344089557
+      lanjut lt2_30: -8143907398603453613
+      lanjut lt2_31: 6344394366094791284
+      lanjut lt2_32: -8321046581296438818
+      lanjut lt2_33: -6892809173357651927
+      lanjut lt2_34: -743266834080626903
+      lanjut lt2_35: -7739013026900719014
+      lanjut lt2_36: 8873704926537295985
+      lanjut lt2_37: 2291728482088995187
+      lanjut lt2_38: -3976024700859718875
+      lanjut lt2_39: -2243618532551902870
+      lanjut lt2_4: 3548099740996390244
+      lanjut lt2_40: 1426113062836972560
+      lanjut lt2_41: 8128476958889886050
+      lanjut lt2_42: 5382434570533520369
+      lanjut lt2_43: 7146027342593823974
+      lanjut lt2_44: -1557818321297410240
+      lanjut lt2_45: -1846894238765626818
+      lanjut lt2_46: -3793335857206337164
+      lanjut lt2_47: 2951270703586401032
+      lanjut lt2_48: 8031425451348917298
+      lanjut lt2_49: -5253025461135892768
+      lanjut lt2_5: 663861900091269729
+      lanjut lt2_50: -4237523971008456880
+      lanjut lt2_51: -5192625168185435133
+      lanjut lt2_52: 3317312588520325892
+      lanjut lt2_53: 840643798144973993
+      lanjut lt2_54: 896905464
+      lanjut lt2_6: -1929134431730927184
+      lanjut lt2_7: 837063462831394114
+      lanjut lt2_8: 6849302058870383364
+      lanjut lt2_9: 2679345734673099616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

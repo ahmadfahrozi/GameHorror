@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: b9fb43681b6c5284e91a5f83624b3bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6963748587157629567
+    second: Asset Tubes Game Horror_0
+  - first:
+      213: -6960384355543248522
+    second: Asset Tubes Game Horror_1
+  - first:
+      213: -1068106833791795947
+    second: Asset Tubes Game Horror_2
+  - first:
+      213: 7840551016002999863
+    second: Asset Tubes Game Horror_3
+  - first:
+      213: 3413811742346599664
+    second: Asset Tubes Game Horror_4
+  - first:
+      213: -3895785484468532820
+    second: Asset Tubes Game Horror_5
+  - first:
+      213: -2721888806189760054
+    second: Asset Tubes Game Horror_6
+  - first:
+      213: -1162527208472454906
+    second: Asset Tubes Game Horror_7
+  - first:
+      213: -7566723842867585158
+    second: Asset Tubes Game Horror_8
+  - first:
+      213: 8658937586339178894
+    second: Asset Tubes Game Horror_9
+  - first:
+      213: -7604918701367043406
+    second: Asset Tubes Game Horror_10
+  - first:
+      213: 1738829394799546424
+    second: Asset Tubes Game Horror_11
+  - first:
+      213: -4125184968538711956
+    second: Asset Tubes Game Horror_12
+  - first:
+      213: -5871078055086532396
+    second: Asset Tubes Game Horror_13
+  - first:
+      213: -1272655809425544195
+    second: Asset Tubes Game Horror_14
+  - first:
+      213: -1817196039535715708
+    second: Asset Tubes Game Horror_15
+  - first:
+      213: -1994779233170205275
+    second: Asset Tubes Game Horror_16
+  - first:
+      213: -1267242040449562330
+    second: Asset Tubes Game Horror_17
+  - first:
+      213: 5112793053667396298
+    second: Asset Tubes Game Horror_18
+  - first:
+      213: -7276635773282655755
+    second: Asset Tubes Game Horror_19
+  - first:
+      213: -7577243633361581377
+    second: Asset Tubes Game Horror_20
+  - first:
+      213: 6174140945738284201
+    second: Asset Tubes Game Horror_21
+  - first:
+      213: -3109545298692771106
+    second: Asset Tubes Game Horror_22
+  - first:
+      213: 4280711547908148711
+    second: Asset Tubes Game Horror_23
+  - first:
+      213: 7732079858405714109
+    second: Asset Tubes Game Horror_24
+  - first:
+      213: 5093191697421332223
+    second: Asset Tubes Game Horror_25
+  - first:
+      213: -2439616375365464091
+    second: Asset Tubes Game Horror_26
+  - first:
+      213: -4348745003971381150
+    second: Asset Tubes Game Horror_27
+  - first:
+      213: -7558557050566103983
+    second: Asset Tubes Game Horror_28
+  - first:
+      213: 7397384485302355389
+    second: Asset Tubes Game Horror_29
+  - first:
+      213: -2789768952656926068
+    second: Asset Tubes Game Horror_30
+  - first:
+      213: 8345892976128307275
+    second: Asset Tubes Game Horror_31
+  - first:
+      213: 5910848938133060362
+    second: Asset Tubes Game Horror_32
+  - first:
+      213: -6690679670696649027
+    second: Asset Tubes Game Horror_33
+  - first:
+      213: 4624125964834714745
+    second: Asset Tubes Game Horror_34
+  - first:
+      213: -2156038993877362532
+    second: Asset Tubes Game Horror_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2634
+        width: 389
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa8aac17434a060800000000000000
+      internalID: 6963748587157629567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2630
+        width: 574
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3ca56e725d21f0800000000000000
+      internalID: -1068106833791795947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_3
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2633
+        width: 856
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736df28ab9b3fcc60800000000000000
+      internalID: 7840551016002999863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_4
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2605
+        width: 900
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc50a841bb406f20800000000000000
+      internalID: 3413811742346599664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_5
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 2633
+        width: 856
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9412d1eb36fe9c0800000000000000
+      internalID: -3895785484468532820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_6
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 2615
+        width: 900
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac182fc4d88e93ad0800000000000000
+      internalID: -2721888806189760054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_7
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 2666
+        width: 800
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d549c9afdddfe0800000000000000
+      internalID: -1162527208472454906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_8
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 2641
+        width: 518
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f166051c89df690800000000000000
+      internalID: -7566723842867585158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1910
+        width: 565
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8966069bd9ba2870800000000000000
+      internalID: 8658937586339178894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_10
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1951
+        width: 747
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bada43dbb6e57690800000000000000
+      internalID: -7604918701367043406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_11
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1879
+        width: 840
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830d8023f10912810800000000000000
+      internalID: 1738829394799546424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_12
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 1936
+        width: 855
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c681875902660c6c0800000000000000
+      internalID: -4125184968538711956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_13
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 1916
+        width: 734
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8d9fd7d9db58ea0800000000000000
+      internalID: -5871078055086532396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_14
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 1940
+        width: 574
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb6addb84e965ee0800000000000000
+      internalID: -1272655809425544195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_16
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 1939
+        width: 389
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a550913bde1154e0800000000000000
+      internalID: -1994779233170205275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_20
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1058
+        width: 545
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba84e8bf0938d690800000000000000
+      internalID: -7577243633361581377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1039
+        width: 397
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acbce76a74fea550800000000000000
+      internalID: 6174140945738284201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1046
+        width: 466
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed27e62a60da8d4d0800000000000000
+      internalID: -3109545298692771106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_23
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1046
+        width: 461
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed4afef874286b30800000000000000
+      internalID: 4280711547908148711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_24
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1058
+        width: 533
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8a9373aaddd4b60800000000000000
+      internalID: 7732079858405714109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_25
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1046
+        width: 461
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe64c92dd6aea640800000000000000
+      internalID: 5093191697421332223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_26
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1046
+        width: 465
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8d1e05ddb42ed0800000000000000
+      internalID: -2439616375365464091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_27
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 1039
+        width: 397
+        height: 739
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268f783a57726a3c0800000000000000
+      internalID: -4348745003971381150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_28
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 147
+        width: 330
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cab72d86c9a1790800000000000000
+      internalID: -7558557050566103983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_29
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 141
+        width: 489
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ce611ff9c8a660800000000000000
+      internalID: 7397384485302355389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_30
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 141
+        width: 495
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a687b1befb849d0800000000000000
+      internalID: -2789768952656926068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_31
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 136
+        width: 520
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403e8f717192d370800000000000000
+      internalID: 8345892976128307275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_32
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 146
+        width: 564
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b7a6ecacd870250800000000000000
+      internalID: 5910848938133060362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_33
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 157
+        width: 494
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed23ac94ee523a0800000000000000
+      internalID: -6690679670696649027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_34
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 157
+        width: 490
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97432aab0123c2040800000000000000
+      internalID: 4624125964834714745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_35
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 162
+        width: 331
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989c0055f53412e0800000000000000
+      internalID: -2156038993877362532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset Tubes Game Horror_36
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 1872
+        width: 775
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc89505c9706c64ca29336cf9a542ce
+      internalID: -364186222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f1aaf3a7610626841a6c2574571ceafc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Asset Tubes Game Horror_0: 6963748587157629567
+      Asset Tubes Game Horror_1: -6960384355543248522
+      Asset Tubes Game Horror_10: -7604918701367043406
+      Asset Tubes Game Horror_11: 1738829394799546424
+      Asset Tubes Game Horror_12: -4125184968538711956
+      Asset Tubes Game Horror_13: -5871078055086532396
+      Asset Tubes Game Horror_14: -1272655809425544195
+      Asset Tubes Game Horror_15: -1817196039535715708
+      Asset Tubes Game Horror_16: -1994779233170205275
+      Asset Tubes Game Horror_17: -1267242040449562330
+      Asset Tubes Game Horror_18: 5112793053667396298
+      Asset Tubes Game Horror_19: -7276635773282655755
+      Asset Tubes Game Horror_2: -1068106833791795947
+      Asset Tubes Game Horror_20: -7577243633361581377
+      Asset Tubes Game Horror_21: 6174140945738284201
+      Asset Tubes Game Horror_22: -3109545298692771106
+      Asset Tubes Game Horror_23: 4280711547908148711
+      Asset Tubes Game Horror_24: 7732079858405714109
+      Asset Tubes Game Horror_25: 5093191697421332223
+      Asset Tubes Game Horror_26: -2439616375365464091
+      Asset Tubes Game Horror_27: -4348745003971381150
+      Asset Tubes Game Horror_28: -7558557050566103983
+      Asset Tubes Game Horror_29: 7397384485302355389
+      Asset Tubes Game Horror_3: 7840551016002999863
+      Asset Tubes Game Horror_30: -2789768952656926068
+      Asset Tubes Game Horror_31: 8345892976128307275
+      Asset Tubes Game Horror_32: 5910848938133060362
+      Asset Tubes Game Horror_33: -6690679670696649027
+      Asset Tubes Game Horror_34: 4624125964834714745
+      Asset Tubes Game Horror_35: -2156038993877362532
+      Asset Tubes Game Horror_36: -364186222
+      Asset Tubes Game Horror_4: 3413811742346599664
+      Asset Tubes Game Horror_5: -3895785484468532820
+      Asset Tubes Game Horror_6: -2721888806189760054
+      Asset Tubes Game Horror_7: -1162527208472454906
+      Asset Tubes Game Horror_8: -7566723842867585158
+      Asset Tubes Game Horror_9: 8658937586339178894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

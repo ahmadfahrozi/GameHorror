@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: e376e15844a0b9243ab7af4a72a835aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5519887044606568282
+    second: hol_0
+  - first:
+      213: -6993652800813839767
+    second: hol_1
+  - first:
+      213: 5803441587312780557
+    second: hol_2
+  - first:
+      213: 1282720339897840529
+    second: hol_3
+  - first:
+      213: -7037473282486614719
+    second: hol_4
+  - first:
+      213: -6715765218371862305
+    second: hol_5
+  - first:
+      213: -8004090353411456115
+    second: hol_6
+  - first:
+      213: 5868147117514056153
+    second: hol_7
+  - first:
+      213: 6515858103031286559
+    second: hol_8
+  - first:
+      213: 6242369350705925156
+    second: hol_9
+  - first:
+      213: 6883668413405033746
+    second: hol_10
+  - first:
+      213: 5811594290094235477
+    second: hol_11
+  - first:
+      213: -3828920314658495610
+    second: hol_12
+  - first:
+      213: 107119744573035214
+    second: hol_13
+  - first:
+      213: -235506490072282371
+    second: hol_14
+  - first:
+      213: 4490343999741520178
+    second: hol_15
+  - first:
+      213: -2060647753915825989
+    second: hol_16
+  - first:
+      213: -6181904317473619519
+    second: hol_17
+  - first:
+      213: 1122900775309134676
+    second: hol_18
+  - first:
+      213: 7723922491537000535
+    second: hol_19
+  - first:
+      213: 9077237216629826847
+    second: hol_20
+  - first:
+      213: 5221043843224350894
+    second: hol_21
+  - first:
+      213: -2664872423895558324
+    second: hol_22
+  - first:
+      213: 2808032069413559601
+    second: hol_23
+  - first:
+      213: 8911447739331864036
+    second: hol_24
+  - first:
+      213: 8044345065611682274
+    second: hol_25
+  - first:
+      213: 8819349846014917083
+    second: hol_26
+  - first:
+      213: -6686825772934355241
+    second: hol_27
+  - first:
+      213: 8396839234771866753
+    second: hol_28
+  - first:
+      213: 5911623397132583973
+    second: hol_29
+  - first:
+      213: 7106628160807972123
+    second: hol_30
+  - first:
+      213: -69440835125132426
+    second: hol_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hol_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2617
+        width: 370
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8d1f18afb6563b0800000000000000
+      internalID: -5519887044606568282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2624
+        width: 373
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4315e4dd81fe90800000000000000
+      internalID: -6993652800813839767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2626
+        width: 373
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05e18e2067f98050800000000000000
+      internalID: 5803441587312780557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2619
+        width: 373
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19377cd5a532dc110800000000000000
+      internalID: 1282720339897840529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_4
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 2626
+        width: 361
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1454511f55fd55e90800000000000000
+      internalID: -7037473282486614719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_5
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2621
+        width: 380
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd085049d1fccc2a0800000000000000
+      internalID: -6715765218371862305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_6
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2638
+        width: 374
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8387c62b32cbe090800000000000000
+      internalID: -8004090353411456115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_7
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 2617
+        width: 380
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1682d66b8df6150800000000000000
+      internalID: 5868147117514056153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_8
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1797
+        width: 397
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc7061c6afc6a50800000000000000
+      internalID: 6515858103031286559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_9
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 1819
+        width: 389
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ccc99d9d951a650800000000000000
+      internalID: 6242369350705925156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_10
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1802
+        width: 397
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215759463f3b78f50800000000000000
+      internalID: 6883668413405033746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_11
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 1807
+        width: 377
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f51c7373ee6a050800000000000000
+      internalID: 5811594290094235477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_12
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 1799
+        width: 389
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e083a241fcdac0800000000000000
+      internalID: -3828920314658495610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_13
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 1807
+        width: 389
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2d4b317d09c7100800000000000000
+      internalID: 107119744573035214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_14
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 1804
+        width: 389
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa41f458105bbcf0800000000000000
+      internalID: -235506490072282371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_15
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 1797
+        width: 386
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23966efa318e05e30800000000000000
+      internalID: 4490343999741520178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 418
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb004ac19cb1763e0800000000000000
+      internalID: -2060647753915825989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 871
+        width: 414
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10881c6c6753aa0800000000000000
+      internalID: -6181904317473619519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_18
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 863
+        width: 414
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bcf464e48559f00800000000000000
+      internalID: 1122900775309134676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_19
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 869
+        width: 427
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75886bc3592e03b60800000000000000
+      internalID: 7723922491537000535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_20
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 866
+        width: 425
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f152d2fb723d8fd70800000000000000
+      internalID: 9077237216629826847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_21
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 869
+        width: 419
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b02096bfd47840800000000000000
+      internalID: 5221043843224350894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_22
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 871
+        width: 417
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4798f946a8740bd0800000000000000
+      internalID: -2664872423895558324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_23
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 869
+        width: 416
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ddc4f1a4228f620800000000000000
+      internalID: 2808032069413559601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_24
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 28
+        width: 419
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e565590182dbab70800000000000000
+      internalID: 8911447739331864036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_25
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 31
+        width: 419
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e16376673143af60800000000000000
+      internalID: 8044345065611682274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_26
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 28
+        width: 422
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97d9145ff946a70800000000000000
+      internalID: 8819349846014917083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_27
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 26
+        width: 427
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62259436f9333a0800000000000000
+      internalID: -6686825772934355241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_28
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 28
+        width: 430
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184d3a0bbc0978470800000000000000
+      internalID: 8396839234771866753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_29
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 23
+        width: 417
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c9f7982e4a0250800000000000000
+      internalID: 5911623397132583973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_30
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 31
+        width: 417
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2fb3e8a0df9260800000000000000
+      internalID: 7106628160807972123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hol_31
+      rect:
+        serializedVersion: 2
+        x: 5569
+        y: 20
+        width: 431
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c579adeb490ff0800000000000000
+      internalID: -69440835125132426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hol_0: -5519887044606568282
+      hol_1: -6993652800813839767
+      hol_10: 6883668413405033746
+      hol_11: 5811594290094235477
+      hol_12: -3828920314658495610
+      hol_13: 107119744573035214
+      hol_14: -235506490072282371
+      hol_15: 4490343999741520178
+      hol_16: -2060647753915825989
+      hol_17: -6181904317473619519
+      hol_18: 1122900775309134676
+      hol_19: 7723922491537000535
+      hol_2: 5803441587312780557
+      hol_20: 9077237216629826847
+      hol_21: 5221043843224350894
+      hol_22: -2664872423895558324
+      hol_23: 2808032069413559601
+      hol_24: 8911447739331864036
+      hol_25: 8044345065611682274
+      hol_26: 8819349846014917083
+      hol_27: -6686825772934355241
+      hol_28: 8396839234771866753
+      hol_29: 5911623397132583973
+      hol_3: 1282720339897840529
+      hol_30: 7106628160807972123
+      hol_31: -69440835125132426
+      hol_4: -7037473282486614719
+      hol_5: -6715765218371862305
+      hol_6: -8004090353411456115
+      hol_7: 5868147117514056153
+      hol_8: 6515858103031286559
+      hol_9: 6242369350705925156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
